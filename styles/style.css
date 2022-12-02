@@ -193,7 +193,7 @@
   font-size: 120px;
   font-weight: 600;
   text-align: center;
-  Margin: 0px auto 70px auto;
+  margin: 0px auto 70px auto;
   width: 648px;
   padding-top: 100px;
 }
@@ -287,18 +287,18 @@
 
 .footer__column_content_info{
   display: flex;
-  flex-direction: column
+  flex-direction: column;
 
 }
 
 .footer__column_content_social{
   display: flex;
-  flex-direction: column
+  flex-direction: column;
 
 }
 
 .logo_place_footer{
-  background-image: url(/images/logo_place_footer.svg)
+  background-image: url(/images/logo_place_footer.svg);
 }
 
 .footer__author{
